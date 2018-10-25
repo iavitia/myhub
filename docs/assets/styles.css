@@ -122,7 +122,6 @@
   
   .markdown-section a {
     text-decoration: none;
-    border-bottom: 0.1rem solid var(--theme-color);
     transition: all 0.3s ease;
   }
   

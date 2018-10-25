@@ -1,7 +1,7 @@
 - Home
   - [Introduction](/)
 
-- Portfolio
+- Projects
   - [NHL Database](portfolio/nhldatabase.md)
 
 - Notes
@@ -9,6 +9,7 @@
   - [Markdown Basics](notes/markdown-basics.md)
 
 - Extra Courses
+  - [SQL Server](courses/sqlserver.md)
   - [SSIS](courses/ssis.md)
   - [Power BI](courses/powerbi.md)
 

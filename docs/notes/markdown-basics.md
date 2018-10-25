@@ -222,6 +222,3 @@ There are five types of Critic marks:
 ## References
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Daring Fireball: Markdown Basics](https://daringfireball.net/projects/markdown/basics)
-
-
-[➔ Math](math.md)

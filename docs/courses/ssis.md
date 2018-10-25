@@ -4,10 +4,7 @@ This is an overview of SSIS courses that I've taken.
 
 ## Mastering SQL Server 2016 Integration Services (SSIS)
 
-[Course Link](https://www.udemy.com/masteringssis2016/)
-
-
-* Learn Data Migration Techniques
+> * Learn Data Migration Techniques
 * Learn How to work with various DataFlow Transformations
 * Learn How to work with various ControlFlow Activities
 * Learn How to use Configuration Files
@@ -18,6 +15,8 @@ This is an overview of SSIS courses that I've taken.
 * Learn How to improve the DB Performance by using Maintenance Plan Tasks
 * Learn How to Implement CheckPoints
 * Learn How to work with various Data Sources and Data Destinations
+
+[Course Link](https://www.udemy.com/masteringssis2016/)
 
 Course Files:  
 [Data Flow Training](https://github.com/iavitia/SSIS-DataFlowTraining/)  
