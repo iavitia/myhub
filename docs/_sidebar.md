@@ -3,6 +3,7 @@
 
 - Projects
   - [NHL Database](portfolio/nhldatabase.md)
+  - [NHL reports using Power BI](portfolio/nhlreports.md)
 
 - Notes
   - [Exam 70-761: Querying Data with T-SQL](notes/70-761.md)
